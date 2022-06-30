@@ -1,5 +1,5 @@
 #sobre mim
-- 👋 Hi, I’m @emanucham
+- 👋 oii, eu sou @emanucham
 - :+1 meu email de contato e emanuel.urbanski@escola.pr.gov.br
 - 👀 Eu estou interessado em aprender e programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de Javascript e Scrach
